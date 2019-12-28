@@ -1,4 +1,4 @@
-# NEO Interview Test
+# Company Interview Test
 
 In order to complete this test, you will need to run the project locally. 
 Please follow the instructions below to build and run the project. 
@@ -21,7 +21,7 @@ The app will automatically reload if you change any of the source files.
 ## Submitting your solution
 
 When you have completed this task, please compress your `src` folder into a zip file
-and send it to mh@neoftl.com.
+and send it to xxxxx.
 You may be asked to present your solution at interview and we will discuss the approach you took.
 
 ## Useful links
